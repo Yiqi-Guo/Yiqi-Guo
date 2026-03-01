@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yguo36@ncsu.edu**
 
-- ⚡ Fun fact **I once spent more time naming a Git branch than writing the code XP**
+- ⚡ Fun fact **I once spent more time naming a Git branch than writing the code. XP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
