@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **open source project**
 
-- 📫 How to reach me **yguo36@ncsu.edu**
+- 📫 How to reach me **yiqiguo27@gmail.com**
 
 - ⚡ Fun fact **I once spent more time naming a Git branch than writing the code. XP**
 
