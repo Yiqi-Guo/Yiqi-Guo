@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-- 🔭 I'm currently working on **a VR volumetric video editting project and battery anomaly detection paper reviewing**
+- 🔭 I'm currently working on **a VR volumetric video editting project and a battery anomaly detection project**
 
 - 🌱 I'm currently learning **Unity and ML in battery**
 
