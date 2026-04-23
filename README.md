@@ -1,35 +1,8 @@
-# Hi 👋, I'm Yiqi Guo
-
-### A passionate developer from around the world
-
-- 🔭 I'm currently working on **a VR volumetric video editting project and battery anomaly detection paper reviewing**
-
-- 🌱 I'm currently learning **Unity and ML in battery**
-
-- 👯 I'm looking to collaborate on **open source project**
-
-- 📫 How to reach me **yiqiguo27@gmail.com**
-
-- ⚡ Fun fact **I once spent more time naming a Git branch than writing the code XP**
-
----
+# Hi 👋, I'm a
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Yiqi-Guo" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/yiqi-guo-971361319" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/geqibugugu" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-</p>
-
----
+<p align="left"><a href="https://github.com/aaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aaa" height="30" width="40" /></a> <a href="https://dev.to/aaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aaaaaa" height="30" width="40" /></a> <a href="https://codepen.io/aaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aaaa" height="30" width="40" /></a> <a href="https://instagram.com/aaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaa" height="30" width="40" /></a> <a href="https://medium.com/aaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aaaa" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,bootstrap,c,cpp,cs,css,git,html,java,js,jupyter,linux,mysql,nodejs,numpy,opencv,pandas,postman,py,pytorch,sklearn,selenium,spring,sqlite,unity,unreal" />
-</p>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/ifttt" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ifttt" alt="ifttt" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/quasar" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-plain.svg" alt="quasar" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/></a></p>
+
